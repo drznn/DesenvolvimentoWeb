@@ -1,3 +1,3 @@
 # DesenvolvimentoWeb
 
-Primeiro Envio da Lista 1
+primeiro commit refere-se ao Envio da Lista 1
