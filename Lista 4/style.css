@@ -271,7 +271,7 @@ h5{
   }
 
 
-  #contChar{
+  #contChar, #contCharModal{
     opacity: 0;
   }
   #botaoEnviar{
